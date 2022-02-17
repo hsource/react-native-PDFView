@@ -10,7 +10,7 @@ yarn.lock
 coverage
 
 # generated
-lib/
+#lib/
 
 # OSX
 #
